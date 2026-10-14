@@ -1,0 +1,21 @@
+{
+  "version": 5,
+  "frameCount": 8,
+  "bg": "#b01a2a",
+  "width": 1280,
+  "height": 720,
+  "face": {
+    "x": 0.5026024430990219,
+    "y": 0.4144938439130783
+  },
+  "order": [
+    "right",
+    "down-right",
+    "down",
+    "down-left",
+    "left",
+    "up-left",
+    "up",
+    "up-left"
+  ]
+}

@@ -1,0 +1,6 @@
+node_modules
+dist
+scripts/face_landmarker.task
+scripts/*.jpg
+_ref
+_tutorial_text.txt
